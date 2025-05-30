@@ -1,0 +1,9 @@
+{
+    "myenv1": "value1",
+    "DATABASE_URL": "postgresql://localhost:5432/mydb",
+    "API_KEY": "abc123xyz789",
+    "DEBUG_MODE": "true",
+    "NODE_ENV": "development",
+    "CUSTOM_PATH": "/opt/myapp/bin",
+    "APP_VERSION": "1.2.3"
+}

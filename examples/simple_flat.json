@@ -1,0 +1,7 @@
+{
+    "myenv1": "value1",
+    "myenv2": "value2",
+    "DATABASE_HOST": "localhost",
+    "DATABASE_PORT": "5432",
+    "API_TOKEN": "secret123"
+}

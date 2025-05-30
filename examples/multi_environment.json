@@ -1,0 +1,19 @@
+{
+    "environments": {
+        "development": {
+            "NODE_ENV": "development",
+            "API_URL": "http://localhost:3000",
+            "DB_URL": "postgresql://localhost:5432/dev_db"
+        },
+        "production": {
+            "NODE_ENV": "production", 
+            "API_URL": "https://api.company.com",
+            "DB_URL": "postgresql://prod-db:5432/prod_db"
+        }
+    },
+    "shared": {
+        "APP_NAME": "MyApplication",
+        "APP_VERSION": "1.0.0",
+        "LOG_LEVEL": "info"
+    }
+}

@@ -1,0 +1,2 @@
+# PyInstaller requirements
+pyinstaller==6.3.0

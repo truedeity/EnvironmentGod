@@ -1,0 +1,19 @@
+{
+    "database": {
+        "host": "localhost",
+        "port": "5432",
+        "name": "myapp",
+        "username": "dbuser",
+        "password": "dbpass"
+    },
+    "api": {
+        "base_url": "http://localhost:3000",
+        "key": "api_secret_123",
+        "timeout": "30"
+    },
+    "features": {
+        "debug": "true",
+        "logging": "verbose",
+        "cache": "enabled"
+    }
+}
